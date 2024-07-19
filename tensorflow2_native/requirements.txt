@@ -1,4 +1,4 @@
-tensorflow-gpu==2.11.0
 tensorflow
+tensorflow-gpu==2.11.0
 pillow
 bentoml>=1.0.0
