@@ -11,4 +11,5 @@ python:
   lock_packages: false
   packages:
     - tensorflow
+    - tensorflow-gpu==2.11.0
     - Pillow
