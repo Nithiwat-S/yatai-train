@@ -1,0 +1,4 @@
+scikit-learn
+pandas
+bentoml
+numpy==1.26.4
